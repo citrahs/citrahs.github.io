@@ -1,3 +1,3 @@
 # citrahs.github.io
 
-go to [Details](citra.github.io)
+go to [Details](citrahs.github.io)
